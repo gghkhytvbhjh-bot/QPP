@@ -19,7 +19,7 @@ source.include_exts = py,png,jpg,kv,atlas,xlsx
 version = 1.0
 
 # Requirements - CORRECTION: versions compatibles ARM + ordre important
-requirements = python3,kivy==2.3.0,kivymd==1.2.0,pillow,pandas,numpy,openpyxl,xlrd
+requirements = python3,kivy==2.3.0,kivymd==1.2.0,pillow,openpyxl
 
 # Orientation
 orientation = portrait
